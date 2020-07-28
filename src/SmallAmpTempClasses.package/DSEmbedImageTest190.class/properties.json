@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DSEmbedImageTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSEmbedImageTest190",
+	"type" : "normal"
+}

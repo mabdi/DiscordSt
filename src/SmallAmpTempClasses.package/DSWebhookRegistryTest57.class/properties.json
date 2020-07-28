@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DSWebhookRegistryTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSWebhookRegistryTest57",
+	"type" : "normal"
+}

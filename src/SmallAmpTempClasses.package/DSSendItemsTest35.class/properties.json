@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DSSendItemsTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSSendItemsTest35",
+	"type" : "normal"
+}

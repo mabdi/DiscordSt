@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DSGuildVoiceChannelTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSGuildVoiceChannelTest213",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DSWebhookDataPostTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSWebhookDataPostTest74",
+	"type" : "normal"
+}

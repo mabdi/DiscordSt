@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DSDetectChannelCommandTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSDetectChannelCommandTest88",
+	"type" : "normal"
+}

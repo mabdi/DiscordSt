@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DSAsyncCommandTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSAsyncCommandTest42",
+	"type" : "normal"
+}

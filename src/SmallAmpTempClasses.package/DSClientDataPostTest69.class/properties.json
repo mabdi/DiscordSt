@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DSClientDataPostTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSClientDataPostTest69",
+	"type" : "normal"
+}
